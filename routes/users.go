@@ -3,9 +3,9 @@ package routes
 import (
 	"net/http"
 
-	"example.com/event-booking-api/models"
-	"example.com/event-booking-api/utils"
-	"example.com/event-booking-api/validators"
+	"github.com/MacBie2k/event-booking-api/models"
+	"github.com/MacBie2k/event-booking-api/utils"
+	"github.com/MacBie2k/event-booking-api/validators"
 	"github.com/gin-gonic/gin"
 )
 

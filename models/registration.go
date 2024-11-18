@@ -1,7 +1,7 @@
 package models
 
 import (
-	"example.com/event-booking-api/db"
+	"github.com/MacBie2k/event-booking-api/db"
 )
 
 type Registration struct {

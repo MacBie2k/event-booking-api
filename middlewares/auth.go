@@ -3,7 +3,7 @@ package middlewares
 import (
 	"net/http"
 
-	"example.com/event-booking-api/utils"
+	"github.com/MacBie2k/event-booking-api/utils"
 	"github.com/gin-gonic/gin"
 )
 
