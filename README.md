@@ -1,2 +1,2 @@
-# go-event-api
-Event Management API in Go with Gin
+# Event Management API
+This project is a learning-based RESTful API built with Go and the Gin framework. It provides CRUD functionality for managing events, allowing users to create, retrieve, update, and delete events. It also includes user registration and login with email and password validation, as well as the ability to register for specific events. JWT-based authorization ensures secure access, and SQLite3 is used as the database. This project was developed as part of learning Go.
